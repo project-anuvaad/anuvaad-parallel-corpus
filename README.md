@@ -21,9 +21,9 @@ Read more about Anuvaad @ http://anuvaad.org/
 The code for building the below mentioned datasets are available under https://github.com/project-anuvaad/anuvaad-corpus-tools
 >
 >
-## Link for the parallel-coprus
-### Domain : News
-#### English-Hindi
+## Links
+### English-Hindi
+#### Domain : News
 > #### [PIB (2016-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2016_2020_en_hi.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
 
 Year  | En-Hi pairs count |
