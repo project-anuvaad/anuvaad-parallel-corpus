@@ -35,6 +35,7 @@ Year  | En-Hi pairs count |
 2018  | 50,628 |
 2017  | 32,113 |
 2016  | 39,046 |
+2015  | 37,896 |
 
 ### English-Tamil
 #### Domain : News
@@ -42,4 +43,4 @@ Year  | En-Hi pairs count |
 
 Year  | En-Ta pairs count |
 :---: | :---: |
-2020  | 79,077 |
+2020  | 24,716 |
