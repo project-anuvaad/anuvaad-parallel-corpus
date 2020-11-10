@@ -9,7 +9,7 @@ The current status of the parallel corpus built* :
 Language Pair | Parallel Corpus Count |
 :-----------: | :------------------: |
 English-Hindi |  312,583             |
-English-Tamil |   32,832             |
+English-Tamil |   50,743            |
 
 This dataset is growing everyday!
 
@@ -40,10 +40,11 @@ Year  | En-Hi pairs count |
 
 ### English-Tamil
 #### Domain : News
-> #### [PIB (2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2020_en_ta.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
+> #### [PIB (2018-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2018_2020_en_ta.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
 
 Year  | En-Ta pairs count |
 :---: | :---: |
 2020  | 22,825 |
 2019  | 10,007 |
+2018  | 17,911 |
 
