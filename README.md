@@ -5,13 +5,12 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 >
 
 ## Status
-The current status of the parallel corpus built* : 
+The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count |
 :-----------: | :------------------: |
-English-Hindi |  312,583             |
-English-Tamil |   50,743            |
+English-Hindi |  350,673             |
+English-Tamil |   61,319            |
 
-This dataset is growing everyday!
 
 ## Goal
 The goal is to build high quality parallel corpus for the Indian languages across various domains (Judicial, Educational, Medical, News etc).
@@ -26,25 +25,27 @@ The code for building the below mentioned datasets are available under https://g
 ### English-Hindi
 #### Domain : News
 > #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_hi.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
-> #### [PIB Archives (2014-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2014_2016_en_hi.zip) - Created from the parallel reports available in [PIB Archives site](https://archive.pib.gov.in/)
+> #### [PIB Archives (2013-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2013_2016_en_hi.zip) - Created from the parallel reports available in [PIB Archives site](https://archive.pib.gov.in/)
 
 Year  | En-Hi pairs count |
 :---: | :---: |
-2020  | 79,077 |
-2019  | 41,695 |
-2018  | 50,628 |
-2017  | 32,113 |
-2016  | 39,046 |
-2015  | 37,896 |
-2014  | 32,128 |
+2020  | 87,961 |
+2019  | 48,230 |
+2018  | 56,085 |
+2017  | 36,064 |
+2016  | 34,882 |
+2015  | 33,931 |
+2014  | 31,188 |
+2013  | 22,332 |
 
 ### English-Tamil
 #### Domain : News
-> #### [PIB (2018-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2018_2020_en_ta.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
+> #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ta.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
 
 Year  | En-Ta pairs count |
 :---: | :---: |
 2020  | 22,825 |
 2019  | 10,007 |
 2018  | 17,911 |
+2017  | 10,576 |
 
