@@ -10,6 +10,7 @@ Language Pair | Parallel Corpus Count |
 :-----------: | :------------------: |
 English-Hindi |  350,673             |
 English-Tamil |   61,319            |
+English-Kannad |    50,731          |
 
 
 ## Goal
@@ -48,4 +49,15 @@ Year  | En-Ta pairs count |
 2019  | 10,007 |
 2018  | 17,911 |
 2017  | 10,576 |
+
+### English-Kannad
+#### Domain : News
+> #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_kn.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
+
+Year  | En-Kn pairs count |
+:---: | :---: |
+2020  | 28,862 |
+2019  | 9,521 |
+2018  | 5,883 |
+2017  | 6,465 |
 
