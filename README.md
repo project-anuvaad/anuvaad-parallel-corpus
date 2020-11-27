@@ -30,18 +30,8 @@ The code for building the below mentioned datasets are available under https://g
 
 Year  | En-Hi pairs count |
 :---: | :---: |
-2020  | 87,961 |
-2019  | 48,230 |
-2018  | 56,085 |
-2017  | 36,064 |
-2016  | 34,882 |
-2015  | 33,931 |
-2014  | 31,188 |
-2013  | 22,332 |
-2012  | 23,129 |
-2011  | 17,518 |
-2010  | 14,503 |
-2009  | 22,332 |
+2017-2020(Oct)  | 228,340 |
+2009-2016  | 184,036 |
 
 
 ### English-Tamil
@@ -50,10 +40,7 @@ Year  | En-Hi pairs count |
 
 Year  | En-Ta pairs count |
 :---: | :---: |
-2020  | 22,825 |
-2019  | 10,007 |
-2018  | 17,911 |
-2017  | 10,576 |
+2017-2020  | 61,319 |
 
 ### English-Kannad
 #### Domain : News
@@ -61,8 +48,5 @@ Year  | En-Ta pairs count |
 
 Year  | En-Kn pairs count |
 :---: | :---: |
-2020  | 28,862 |
-2019  | 9,521 |
-2018  | 5,883 |
-2017  | 6,465 |
+2017-2020  | 50,731 |
 
