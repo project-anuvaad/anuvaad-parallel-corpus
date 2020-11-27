@@ -8,7 +8,7 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count |
 :-----------: | :------------------: |
-English-Hindi |  350,673             |
+English-Hindi |  412,376             |
 English-Tamil |   61,319            |
 English-Kannad |    50,731          |
 
@@ -26,7 +26,7 @@ The code for building the below mentioned datasets are available under https://g
 ### English-Hindi
 #### Domain : News
 > #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_hi.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
-> #### [PIB Archives (2013-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2013_2016_en_hi.zip) - Created from the parallel reports available in [PIB Archives site](https://archive.pib.gov.in/)
+> #### [PIB Archives (2009-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2009_2016_en_hi.zip) - Created from the parallel reports available in [PIB Archives site](https://archive.pib.gov.in/)
 
 Year  | En-Hi pairs count |
 :---: | :---: |
@@ -38,6 +38,11 @@ Year  | En-Hi pairs count |
 2015  | 33,931 |
 2014  | 31,188 |
 2013  | 22,332 |
+2012  | 23,129 |
+2011  | 17,518 |
+2010  | 14,503 |
+2009  | 22,332 |
+
 
 ### English-Tamil
 #### Domain : News
