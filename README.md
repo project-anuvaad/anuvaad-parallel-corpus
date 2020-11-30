@@ -42,7 +42,7 @@ Year  | En-Ta pairs count |
 :---: | :---: |
 2017-2020  | 61,319 |
 
-### English-Kannad
+### English-Kannada
 #### Domain : News
 > #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_kn.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
 
