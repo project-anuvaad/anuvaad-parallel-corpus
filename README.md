@@ -8,9 +8,9 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count |
 :-----------: | :------------------: |
-English-Hindi |  412,376             |
+English-Hindi |  1,359,524             |
 English-Bengali |   643,571            |
-English-Tamil |   61,319            |
+English-Tamil |   878,050            |
 English-Kannada |    50,731          |
 
 
@@ -25,6 +25,13 @@ The code for building the below mentioned datasets are available under https://g
 >
 ## Links
 ### English-Hindi
+#### Domain : Judicial
+> #### [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_en_hi_2021_v1.zip) - Created from various legal/judicial sites.
+
+Year  | En-Hi pairs count |
+:---: | :---: |
+2010-2020  | 947,148 |
+
 #### Domain : News
 > #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_hi.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
 > #### [PIB Archives (2009-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2009_2016_en_hi.zip) - Created from the parallel reports available in [PIB Archives site](https://archive.pib.gov.in/)
@@ -36,7 +43,7 @@ Year  | En-Hi pairs count |
 
 ### English-Bengali
 #### Domain : Judicial
-> #### [IndianKanoon](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik_en_bn.zip) - Created from the legal/judicial documents available in [IndianKanoon site](https://indiankanoon.org/)
+> #### [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik_en_bn.zip) - Created from various legal/judicial sites.
 
 Year  | En-Bn pairs count |
 :---: | :---: |
@@ -45,11 +52,18 @@ Year  | En-Bn pairs count |
 #### Domain : News
 > #### [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_bn.zip) - Created from the parallel reports available in [PIB Archives site](https://archive.pib.gov.in/)
 
-Year  | En-Hi pairs count |
+Year  | En-Bn pairs count |
 :---: | :---: |
 2015-2016  | 18,115 |
 
 ### English-Tamil
+#### Domain : Judicial
+> #### [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_en_ta_2021_v1.zip) - Created from various legal/judicial sites.
+
+Year  | En-Ta pairs count |
+:---: | :---: |
+2010-2020  | 816,731 |
+
 #### Domain : News
 > #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ta.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
 
