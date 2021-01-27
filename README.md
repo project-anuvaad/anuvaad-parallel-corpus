@@ -9,7 +9,7 @@ The current status of the parallel corpus built (& keeps growing everyday!) :
 Language Pair | Parallel Corpus Count |
 :-----------: | :------------------: |
 English-Hindi |  1,359,524             |
-English-Bengali |   643,571            |
+English-Bengali |   867,145            |
 English-Tamil |   878,050            |
 English-Kannada |    50,731          |
 
@@ -48,6 +48,13 @@ Year  | En-Hi pairs count |
 Year  | En-Bn pairs count |
 :---: | :---: |
 2010-2020  | 625,456 |
+
+#### Domain : General
+> #### [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) - Created from multiple general corpus like Wikipedia, Custom NER, Wikinews, PMIndia etc.
+
+Source  | En-Bn pairs count |
+:---: | :---: |
+Multiple  | 223,574 |
 
 #### Domain : News
 > #### [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_bn.zip) - Created from the parallel reports available in [PIB Archives site](https://archive.pib.gov.in/)
