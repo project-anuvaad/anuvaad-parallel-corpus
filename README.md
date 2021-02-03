@@ -7,11 +7,11 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 ## Status
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count |
-:-----------: | :------------------: |
-English-Hindi |  1,359,524             |
-English-Bengali |   867,145            |
-English-Tamil |   878,050            |
-English-Kannada |    50,731          |
+:--------------- | ------------------: |
+English-Hindi     |  1,748,328           |
+English-Bengali   |   950,846            |
+English-Tamil     |   944,846            |
+English-Kannada   |    50,731            |
 
 
 ## Goal
@@ -25,64 +25,39 @@ The code for building the below mentioned datasets are available under https://g
 >
 ## Links
 ### English-Hindi
-#### Domain : Judicial
-> #### [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_en_hi_2021_v1.zip) - Created from various legal/judicial sites.
 
-Year  | En-Hi pairs count |
-:---: | :---: |
-2010-2020  | 947,148 |
+Domain | Source | Year  | En-Hi pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+Judicial |Multiple Sources | 2010-2020  | 947,148 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_en_hi_2021_v1.zip) |
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 401,859 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_hi.zip) |
+News | [PIB Archives](https://archive.pib.gov.in/) | 2009-2016  | 288,573 | [PIB Archives (2009-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2009_2016_en_hi.zip) |
+News |[NewsOnAir](http://newsonair.com/) | 2019-2021(Jan)  | 110,748 | [NewsOnAir (2019-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/newsonair_2019_2020_en_hi.zip) |
 
-#### Domain : News
-> #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_hi.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
-> #### [PIB Archives (2009-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2009_2016_en_hi.zip) - Created from the parallel reports available in [PIB Archives site](https://archive.pib.gov.in/)
-
-Year  | En-Hi pairs count |
-:---: | :---: |
-2017-2020(Oct)  | 228,340 |
-2009-2016  | 184,036 |
 
 ### English-Bengali
-#### Domain : Judicial
-> #### [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik_en_bn.zip) - Created from various legal/judicial sites.
 
-Year  | En-Bn pairs count |
-:---: | :---: |
-2010-2020  | 625,456 |
+Domain | Source | Year  | En-Bn pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+Judicial |Multiple Sources | 2010-2020  | 625,456 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik_en_bn.zip)
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 74,433 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_bn.zip)
+News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 27,383 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_bn.zip) |
+General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) |
 
-#### Domain : General
-> #### [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) - Created from multiple general corpus like Wikipedia, Custom NER, Wikinews, PMIndia etc.
+    * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
 
-Source  | En-Bn pairs count |
-:---: | :---: |
-Multiple  | 223,574 |
-
-#### Domain : News
-> #### [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_bn.zip) - Created from the parallel reports available in [PIB Archives site](https://archive.pib.gov.in/)
-
-Year  | En-Bn pairs count |
-:---: | :---: |
-2015-2016  | 18,115 |
 
 ### English-Tamil
-#### Domain : Judicial
-> #### [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_en_ta_2021_v1.zip) - Created from various legal/judicial sites.
 
-Year  | En-Ta pairs count |
-:---: | :---: |
-2010-2020  | 816,731 |
+Domain | Source | Year  | En-Ta pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+Judicial |Multiple Sources | 2010-2020  | 816,729 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_en_ta_2021_v1.zip)
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 104,836 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ta.zip)
+News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 23,281 | [PIB Archives (2014-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2014_2016_en_ta.zip) |
 
-#### Domain : News
-> #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ta.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
-
-Year  | En-Ta pairs count |
-:---: | :---: |
-2017-2020  | 61,319 |
 
 ### English-Kannada
-#### Domain : News
-> #### [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_kn.zip) - Created from the parallel reports available in [PIB site](https://www.pib.gov.in/)
 
-Year  | En-Kn pairs count |
-:---: | :---: |
-2017-2020  | 50,731 |
+Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 50,731 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_kn.zip)
 
