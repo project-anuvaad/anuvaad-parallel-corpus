@@ -11,6 +11,8 @@ Language Pair | Parallel Corpus Count |
 English-Hindi     |  1,748,328           |
 English-Bengali   |  1,234,793            |
 English-Tamil     |   944,846            |
+English-Malayalam     |  1,042,870            |
+English-Telugu     |   1,026,197            |
 English-Kannada   |    50,731            |
 
 
@@ -38,7 +40,7 @@ News |[NewsOnAir](http://newsonair.com/) | 2019-2021(Jan)  | 110,748 | [NewsOnAi
 
 Domain | Source | Year  | En-Bn pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
-Judicial |Multiple Sources | 2010-2020  | 625,456 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik_en_bn.zip)
+Judicial |Multiple Sources | 2010-2020  | 625,456 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-bn.zip)
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 74,433 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_bn.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 27,383 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_bn.zip) |
 News | [Prothomalo](https://www.prothomalo.com/) | 2014-2020  | 283,947 | [Prothomalo (2014-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/prothomalo_2014_2020_en_bn.zip)
@@ -54,6 +56,22 @@ Domain | Source | Year  | En-Ta pairs count | Corpus Download Link |
 Judicial |Multiple Sources | 2010-2020  | 816,729 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_en_ta_2021_v1.zip)
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 104,836 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ta.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 23,281 | [PIB Archives (2014-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2014_2016_en_ta.zip) |
+
+
+### English-Malayalam
+
+Domain | Source | Year  | En-Ml pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+Judicial |Multiple Sources | 2010-2020  | 1,029,757 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-ml.zip)
+News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 13,113 | [PIB Archives (2014-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2014_2016_en_ml.zip) |
+
+
+### English-Telugu
+
+Domain | Source | Year  | En-Te pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+Judicial |Multiple Sources | 2010-2020  | 1,010,463 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-te.zip)
+News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 15,734 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_te.zip) |
 
 
 ### English-Kannada
