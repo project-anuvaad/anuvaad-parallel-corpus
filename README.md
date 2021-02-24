@@ -1,5 +1,5 @@
 # Anuvaad Parallel Corpus
-This repository contains parallel language corpus links for popular Indian languages developed as part of the Anuvaad project.
+This repository contains parallel language corpus links for popular Indian languages developed as part of the [Anuvaad project](http://anuvaad.org).
 >
 Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usage of the linked datasets.
 >
@@ -8,7 +8,7 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count |
 :--------------- | ------------------: |
-English-Hindi     |  1,904,661           |
+English-Hindi     |  1,906,384           |
 English-Bengali   |  1,253,146            |
 English-Tamil     |   955,697            |
 English-Malayalam     |  1,078,630           |
@@ -32,7 +32,7 @@ Domain | Source | Year  | En-Hi pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 Judicial |Multiple Sources | 2010-2020  | 947,148 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_en_hi_2021_v1.zip) |
 Judicial |HC/SUVAS | NA  | 81,884 | [HC/SUVAS](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/internal-judicial-2021-v1-en-hi.zip) |
-Judicial |Legal Terminologies | NA  | 2,257 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-hi.zip) |
+Judicial |Legal Terminologies | NA  | 3,980 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-hi.zip) |
 General |Nouns Dictionary | NA  | 72,192 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-hi.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 401,859 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_hi.zip) |
 News | [PIB Archives](https://archive.pib.gov.in/) | 2009-2016  | 288,573 | [PIB Archives (2009-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2009_2016_en_hi.zip) |
