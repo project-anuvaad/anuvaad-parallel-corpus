@@ -57,7 +57,7 @@ General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-p
 
 Domain | Source | Year  | En-Ta pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
-Judicial |Multiple Sources | 2010-2020  | 816,729 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_en_ta_2021_v1.zip)
+Judicial |Multiple Sources | 2010-2020  | 816,729 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-ta.zip)
 Judicial |HC/SUVAS | NA  | 10,851 | [HC/SUVAS](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/internal-judicial-2021-v1-en-ta.zip) |
 General |Nouns Dictionary | NA  | 62,920 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-ta.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 104,836 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ta.zip)
