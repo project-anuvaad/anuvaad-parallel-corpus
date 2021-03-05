@@ -11,7 +11,7 @@ Language Pair | Parallel Corpus Count  |
 English-Hindi     |  1,906,384         |
 English-Bengali   |  1,253,146         |
 English-Tamil     |  1,018,617         |
-English-Malayalam |  1,078,630         |
+English-Malayalam |  1,148,457         |
 English-Telugu    |  1,161,553         |
 English-Kannada   |     50,731         |
 
@@ -70,6 +70,8 @@ Domain | Source | Year  | En-Ml pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 Judicial |Multiple Sources | 2010-2020  | 1,029,757 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-ml.zip)
 Judicial |HC/SUVAS | NA  | 8,222 | [HC/SUVAS](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/internal-judicial-2021-v1-en-ml.zip) |
+Judicial |Legal Terminologies | NA  | 3,377 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-ml.zip) |
+General |Nouns Dictionary | NA  | 66,450 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-hi.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 27,538 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ml.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 13,113 | [PIB Archives (2014-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2014_2016_en_ml.zip) |
 
