@@ -13,7 +13,7 @@ English-Bengali   |  1,253,146         |
 English-Tamil     |  1,022,212         |
 English-Malayalam |  1,148,457         |
 English-Telugu    |  1,165,148         |
-English-Kannada   |     50,731         |
+English-Kannada   |    988,578         |
 
 
 ## Goal
@@ -93,5 +93,9 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 15,734 | [PIB 
 
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
+Judicial |Multiple Sources | 2010-2020  | 859,455 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-kn.zip)
+Judicial |Legal Terminologies | NA  | 3,356 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-kn.zip) |
+General |Nouns Dictionary | NA  | 54,126 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-kn.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 50,731 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_kn.zip)
+News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 20,910 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_kn.zip) |
 
