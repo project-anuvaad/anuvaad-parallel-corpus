@@ -14,6 +14,7 @@ English-Tamil     |  1,096,840         |
 English-Malayalam |  1,192,827         |
 English-Telugu    |  1,247,405         |
 English-Kannada   |    988,578         |
+English-Marathi   |     86,981         |
 
 
 ## Goal
@@ -103,3 +104,11 @@ General |Nouns Dictionary | NA  | 54,126 | [Nouns Dict](https://anuvaad-parallel
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 50,731 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_kn.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 20,910 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_kn.zip) |
 
+
+### English-Marathi
+
+Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+Judicial |Legal Terminologies | NA  | 1,052 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-mr.zip) |
+General |Nouns Dictionary | NA  | 57,307 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-mr.zip) |
+News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 28,622 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_mr.zip) |
