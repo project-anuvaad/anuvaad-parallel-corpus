@@ -14,7 +14,7 @@ English-Tamil     |  1,096,840         |
 English-Malayalam |  1,192,827         |
 English-Telugu    |  1,247,405         |
 English-Kannada   |    988,578         |
-English-Marathi   |  1,452,698         |
+English-Marathi   |  1,448,199         |
 
 
 ## Goal
