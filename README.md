@@ -15,6 +15,8 @@ English-Malayalam |  1,242,489         |
 English-Telugu    |  1,315,093         |
 English-Kannada   |  1,045,729         |
 English-Marathi   |  1,448,199         |
+English-Punjabi   |     30,923         |
+
 
 
 ## Goal
@@ -118,3 +120,10 @@ Judicial |Legal Terminologies | NA  | 1,052 | [Legal Terms](https://anuvaad-para
 General |Nouns Dictionary | NA  | 57,307 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-mr.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 155,647 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_mr.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 28,622 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_mr.zip) |
+
+
+### English-Punjabi
+
+Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 30,923 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_pa.zip) |
