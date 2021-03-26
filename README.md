@@ -8,12 +8,12 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  2,099,724         |
+English-Hindi     |  2,139,269         |
 English-Bengali   |  1,253,146         |
 English-Tamil     |  1,096,840         |
-English-Malayalam |  1,192,827         |
-English-Telugu    |  1,247,405         |
-English-Kannada   |    988,578         |
+English-Malayalam |  1,242,489         |
+English-Telugu    |  1,315,093         |
+English-Kannada   |  1,045,729         |
 English-Marathi   |  1,448,199         |
 
 
@@ -39,6 +39,7 @@ News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 401,859 | [PIB (2017-2020)]
 News | [PIB Archives](https://archive.pib.gov.in/) | 2009-2016  | 288,573 | [PIB Archives (2009-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2009_2016_en_hi.zip) |
 News |[NewsOnAir](http://newsonair.com/) | 2019-2021(Jan)  | 110,748 | [NewsOnAir (2019-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/newsonair_2019_2020_en_hi.zip) |
 General |[Wikipedia](https://www.wikipedia.org/) | Until 2021-02  | 193,340 | [Wikipedia (20210201)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/wikipedia-en-hi-20210201.zip) |
+Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 39,545 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-hi-20210303.zip) |
 
 
 ### English-Bengali
@@ -79,6 +80,7 @@ General |Nouns Dictionary | NA  | 66,450 | [Nouns Dict](https://anuvaad-parallel
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 27,538 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ml.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 13,113 | [PIB Archives (2014-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2014_2016_en_ml.zip) |
 General |[Wikipedia](https://www.wikipedia.org/) | Until 2021-02  | 44,370 | [Wikipedia (20210201)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/wikipedia-en-ml-20210201.zip) |
+Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 49,662 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-ml-20210303.zip) |
 
 
 ### English-Telugu
@@ -92,6 +94,7 @@ General |Nouns Dictionary | NA  | 63,802 | [Nouns Dict](https://anuvaad-parallel
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 65,842 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_te.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 15,734 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_te.zip) |
 General |[Wikipedia](https://www.wikipedia.org/) | Until 2021-02  | 82,257 | [Wikipedia (20210201)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/wikipedia-en-te-20210201.zip) |
+Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 67,688 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-te-20210303.zip) |
 
 
 ### English-Kannada
@@ -103,6 +106,7 @@ Judicial |Legal Terminologies | NA  | 3,356 | [Legal Terms](https://anuvaad-para
 General |Nouns Dictionary | NA  | 54,126 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-kn.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 50,731 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_kn.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 20,910 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_kn.zip) |
+Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 57,151 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-kn-20210303.zip) |
 
 
 ### English-Marathi
