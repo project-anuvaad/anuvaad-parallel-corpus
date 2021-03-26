@@ -15,7 +15,7 @@ English-Malayalam |  1,242,489         |
 English-Telugu    |  1,315,093         |
 English-Kannada   |  1,045,729         |
 English-Marathi   |  1,448,199         |
-English-Punjabi   |     30,923         |
+English-Punjabi   |    289,163         |
 
 
 
@@ -126,4 +126,6 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 28,622 | [PIB 
 
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
+General |Nouns Dictionary | NA  | 53,665 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-pa.zip) |
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 204,575 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_pa.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 30,923 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_pa.zip) |
