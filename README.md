@@ -8,7 +8,7 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  2,139,269         |
+English-Hindi     |  2,176,288         |
 English-Bengali   |  1,253,146         |
 English-Tamil     |  1,096,840         |
 English-Malayalam |  1,242,489         |
@@ -44,6 +44,8 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2009-2016  | 288,573 | [PIB
 News |[NewsOnAir](http://newsonair.com/) | 2019-2021(Jan)  | 110,748 | [NewsOnAir (2019-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/newsonair_2019_2020_en_hi.zip) |
 General |[Wikipedia](https://www.wikipedia.org/) | Until 2021-02  | 193,340 | [Wikipedia (20210201)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/wikipedia-en-hi-20210201.zip) |
 Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 39,545 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-hi-20210303.zip) |
+General |[DD News National](http://ddnews.gov.in/) | Until 2021-03  | 33,263 | [DD News National (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dd-national-en-hi-20210320.zip) |
+Sports |[DD News Sports](http://ddnews.gov.in/) | Until 2021-03  | 3,666 | [DD News Sports (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dd-sports-en-hi-20210320.zip) |
 
 
 ### English-Bengali
