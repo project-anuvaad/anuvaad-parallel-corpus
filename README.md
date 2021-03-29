@@ -16,7 +16,7 @@ English-Telugu    |  1,315,093         |
 English-Kannada   |  1,045,729         |
 English-Marathi   |  1,448,199         |
 English-Punjabi   |    289,163         |
-English-Gujarati  |     29,443         |
+English-Gujarati  |    103,603         |
 English-Assamese  |      6,188         |
 
 
@@ -139,6 +139,7 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 30,923 | [PIB 
 
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 74,160 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_gu.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 29,443 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_gu.zip) |
 
 
