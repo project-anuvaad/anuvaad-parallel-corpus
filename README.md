@@ -9,7 +9,7 @@ The current status of the parallel corpus built (& keeps growing everyday!) :
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
 English-Hindi     |  2,208,221         |
-English-Bengali   |  1,253,146         |
+English-Bengali   |  1,276,200         |
 English-Tamil     |  1,121,570         |
 English-Malayalam |  1,269,513         |
 English-Telugu    |  1,355,826         |
@@ -57,7 +57,8 @@ Judicial |Multiple Sources | 2010-2020  | 625,456 | [Indian Judiciary](https://a
 Judicial |HC/SUVAS | NA  | 18,353 | [HC/SUVAS](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/internal-judicial-2021-v1-en-bn.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 74,433 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_bn.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 27,383 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_bn.zip) |
-News | [Prothomalo](https://www.prothomalo.com/) | 2014-2020  | 283,947 | [Prothomalo (2014-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/prothomalo_2014_2020_en_bn.zip)
+News | [Prothomalo](https://www.prothomalo.com/) | 2014-2020  | 283,947 | [Prothomalo (2014-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/prothomalo_2014_2020_en_bn.zip) |
+News | [DW News](https://www.dw.com/) | 2004-2020  | 23,054 | [DW News (2004-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dwnews_2004_2020_en_bn.zip) |
 General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) |
 
     * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
