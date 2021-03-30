@@ -10,7 +10,7 @@ Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
 English-Hindi     |  2,208,221         |
 English-Bengali   |  1,276,200         |
-English-Tamil     |  1,121,570         |
+English-Tamil     |  1,187,171         |
 English-Malayalam |  1,269,513         |
 English-Telugu    |  1,355,826         |
 English-Kannada   |  1,077,383         |
@@ -76,6 +76,7 @@ News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 104,836 | [PIB (2017-2020)]
 News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 23,281 | [PIB Archives (2014-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2014_2016_en_ta.zip) |
 General |[Wikipedia](https://www.wikipedia.org/) | Until 2021-02  | 74,628 | [Wikipedia (20210201)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/wikipedia-en-ta-20210201.zip) |
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 24,730 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-ta-20210315.zip) |
+Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 65,601 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-ta-20210303.zip) |
 
 
 ### English-Malayalam
