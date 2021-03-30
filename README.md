@@ -8,7 +8,7 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  2,208,221         |
+English-Hindi     |  2,243,746         |
 English-Bengali   |  1,276,200         |
 English-Tamil     |  1,187,171         |
 English-Malayalam |  1,269,513         |
@@ -47,6 +47,7 @@ Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 39,545 
 General |[DD News National](http://ddnews.gov.in/) | Until 2021-03  | 33,263 | [DD News National (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dd-national-en-hi-20210320.zip) |
 Sports |[DD News Sports](http://ddnews.gov.in/) | Until 2021-03  | 3,666 | [DD News Sports (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dd-sports-en-hi-20210320.zip) |
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 31,933 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-hi-20210315.zip) |
+News |[CatchNews](http://www.catchnews.com/) | Until 2021-03  | 35,525 | [CatchNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/catchnews-en-hi-20210320.zip) |
 
 
 ### English-Bengali
