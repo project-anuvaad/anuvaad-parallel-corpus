@@ -8,10 +8,10 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  2,370,790         |
-English-Bengali   |  1,280,618         |
+English-Hindi     |  2,400,614         |
+English-Bengali   |  1,290,410         |
 English-Tamil     |  1,190,325         |
-English-Malayalam |  1,282,083         |
+English-Malayalam |  1,283,020         |
 English-Telugu    |  1,362,367         |
 English-Kannada   |  1,085,055         |
 English-Marathi   |  1,456,320         |
@@ -49,9 +49,9 @@ Sports |[DD News Sports](http://ddnews.gov.in/) | Until 2021-03  | 3,666 | [DD N
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 31,933 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-hi-20210315.zip) |
 News |[CatchNews](http://www.catchnews.com/) | Until 2021-03  | 35,525 | [CatchNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/catchnews-en-hi-20210320.zip) |
 News | [DW News](https://www.dw.com/) | 2008-2020  | 56,075 | [DW News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dwnews_2008_2020_en_hi.zip) |
-News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 46,202 | [DW News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/oneindia_20210320_en_hi.zip) |
+News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 74,548 | [DW News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/oneindia_20210320_en_hi.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 12,780 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_hi.zip) |
-News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 4,331 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_hi.zip) |
+News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 5,899 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_hi.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 7,656 | [Times of India (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_hi.zip) |
 
 
@@ -65,7 +65,7 @@ News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 74,433 | [PIB (2017-2020)](
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 27,383 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_bn.zip) |
 News | [Prothomalo](https://www.prothomalo.com/) | 2014-2020  | 283,947 | [Prothomalo (2014-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/prothomalo_2014_2020_en_bn.zip) |
 News | [DW News](https://www.dw.com/) | 2004-2020  | 23,054 | [DW News (2004-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dwnews_2004_2020_en_bn.zip) |
-Sports | [MyKhel](https://www.mykhel.com/) | Until 2021-03 | 4,418 | [MyKhel (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/mk_20210320_en_bn.zip) |
+Sports | [MyKhel](https://www.mykhel.com/) | Until 2021-03 | 14,210 | [MyKhel (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/mk_20210320_en_bn.zip) |
 General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) |
 
     * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
@@ -101,7 +101,7 @@ General |[Wikipedia](https://www.wikipedia.org/) | Until 2021-02  | 44,370 | [Wi
 Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 49,662 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-ml-20210303.zip) |
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 27,024 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-ml-20210315.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 10,968 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_ml.zip) |
-News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 1,602 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_ml.zip) |
+News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 2,539 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_ml.zip) |
 
 
 ### English-Telugu
