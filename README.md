@@ -8,7 +8,7 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  2,407,954         |
+English-Hindi     |  2,413,959         |
 English-Bengali   |  1,290,410         |
 English-Tamil     |  1,190,325         |
 English-Malayalam |  1,283,020         |
@@ -16,7 +16,7 @@ English-Telugu    |  1,362,367         |
 English-Kannada   |  1,085,055         |
 English-Marathi   |  1,456,320         |
 English-Punjabi   |    289,163         |
-English-Gujarati  |    106,674         |
+English-Gujarati  |    137,105         |
 English-Assamese  |      6,188         |
 
 
@@ -53,7 +53,7 @@ News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 74,548 | [DW New
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 12,780 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_hi.zip) |
 News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 5,899 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_hi.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 7,656 | [Times of India (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_hi.zip) |
-Financial | [Financial Express](https://www.financialexpress.com/) | Until 2021-03  | 7,340 | [Financial Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/fin_express_20210320_en_hi.zip) |
+Financial | [Financial Express](https://www.financialexpress.com/) | Until 2021-03  | 13,345 | [Financial Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/fin_express_20210320_en_hi.zip) |
 
 
 ### English-Bengali
@@ -160,7 +160,7 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 30,923 | [PIB 
 
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
-News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 74,160 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_gu.zip)
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 104,591 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_gu.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 29,443 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_gu.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 3,071 | [Times of India (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_gu.zip) |
 
