@@ -15,9 +15,11 @@ English-Malayalam |  1,283,020         |
 English-Telugu    |  1,362,367         |
 English-Kannada   |  1,085,055         |
 English-Marathi   |  1,456,320         |
-English-Punjabi   |    289,163         |
+English-Punjabi   |    292,741         |
 English-Gujarati  |    137,105         |
 English-Assamese  |      6,188         |
+English-Urdu      |    141,246         |
+English-Odia      |     73,020         |
 
 
 
@@ -151,6 +153,7 @@ News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  |
 
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
+Judicial |Legal Terminologies | NA  | 3,578 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-pa.zip) |
 General |Nouns Dictionary | NA  | 53,665 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-pa.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 204,575 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_pa.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 30,923 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_pa.zip) |
@@ -170,3 +173,17 @@ News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  |
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 6,188 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_as.zip) |
+
+
+### English-Urdu
+
+Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 141,246 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ur.zip)
+
+
+### English-Odia
+
+Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 73,020 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_or.zip)
