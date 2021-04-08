@@ -15,7 +15,7 @@ English-Malayalam |  1,283,020         |
 English-Telugu    |  1,362,367         |
 English-Kannada   |  1,085,055         |
 English-Marathi   |  1,456,320         |
-English-Punjabi   |    292,741         |
+English-Punjabi   |  15,65,667         |
 English-Gujarati  |    137,105         |
 English-Assamese  |      6,188         |
 English-Urdu      |    141,246         |
@@ -153,6 +153,8 @@ News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  |
 
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
+Judicial |Multiple Sources | 2010-2020  | 1,261,948 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-pa.zip)
+Judicial |HC/SUVAS | NA  | 10,978 | [HC/SUVAS](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/internal-judicial-2021-v1-en-pa.zip) |
 Judicial |Legal Terminologies | NA  | 3,578 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-pa.zip) |
 General |Nouns Dictionary | NA  | 53,665 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-pa.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 204,575 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_pa.zip)
