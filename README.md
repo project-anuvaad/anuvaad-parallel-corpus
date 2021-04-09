@@ -11,13 +11,13 @@ Language Pair | Parallel Corpus Count  |
 English-Hindi     |  2,413,959         |
 English-Bengali   |  1,290,410         |
 English-Tamil     |  1,190,325         |
-English-Malayalam |  1,283,020         |
+English-Malayalam |  1,288,451         |
 English-Telugu    |  1,362,367         |
 English-Kannada   |  1,085,055         |
 English-Marathi   |  1,456,320         |
 English-Punjabi   |  15,65,667         |
 English-Gujarati  |    137,105         |
-English-Assamese  |      6,188         |
+English-Assamese  |     44,288         |
 English-Urdu      |    141,246         |
 English-Odia      |     73,020         |
 
@@ -105,6 +105,7 @@ Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 49,662 
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 27,024 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-ml-20210315.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 10,968 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_ml.zip) |
 News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 2,539 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_ml.zip) |
+Financial | [MarketFeed](https://marketfeed.news/) | Until 2021-03  | 5,431 | [MarketFeed(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/marketfeed_20210320_en_ml.zip) |
 
 
 ### English-Telugu
@@ -174,6 +175,7 @@ News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  |
 
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
+News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 38,100 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_as.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 6,188 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_as.zip) |
 
 
