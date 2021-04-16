@@ -19,7 +19,7 @@ English-Punjabi   |  1,565,667         |
 English-Gujarati  |    185,430         |
 English-Assamese  |     44,288         |
 English-Urdu      |    141,246         |
-English-Odia      |     73,020         |
+English-Odia      |     92,309         |
 
 
 
@@ -208,3 +208,4 @@ News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 141,246 | [PIB (2017-2020)]
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 73,020 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_or.zip)
+News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 19,289 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_or.zip) |
