@@ -9,7 +9,7 @@ The current status of the parallel corpus built (& keeps growing everyday!) :
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
 English-Hindi     |  2,789,592         |
-English-Bengali   |  1,367,92         |
+English-Bengali   |  1,367,920         |
 English-Tamil     |  1,307,459         |
 English-Malayalam |  1,409,144         |
 English-Telugu    |  1,578,480         |
@@ -18,7 +18,7 @@ English-Marathi   |  1,579,122         |
 English-Punjabi   |  1,565,667         |
 English-Gujarati  |    185,430         |
 English-Assamese  |     44,288         |
-English-Urdu      |    141,246         |
+English-Urdu      |    151,185         |
 English-Odia      |     92,309         |
 
 
@@ -201,6 +201,7 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 6,188 | [PIB A
 Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 141,246 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ur.zip)
+News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 9,939 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_ur.zip) |
 
 
 ### English-Odia
