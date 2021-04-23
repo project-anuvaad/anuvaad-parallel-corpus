@@ -8,17 +8,17 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 The current status of the parallel corpus built (& keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  2,789,592         |
+English-Hindi     |  2,887,729         |
 English-Bengali   |  1,367,920         |
 English-Tamil     |  1,307,459         |
 English-Malayalam |  1,409,144         |
 English-Telugu    |  1,578,480         |
 English-Kannada   |  1,172,723         |
-English-Marathi   |  1,579,122         |
+English-Marathi   |  1,604,206         |
 English-Punjabi   |  1,565,667         |
 English-Gujarati  |    185,430         |
 English-Assamese  |     44,288         |
-English-Urdu      |    151,185         |
+English-Urdu      |    162,048         |
 English-Odia      |     92,309         |
 
 
@@ -58,6 +58,8 @@ News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 151,523 |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 110,623 | [Times of India (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_hi.zip) |
 Financial | [Financial Express](https://www.financialexpress.com/) | Until 2021-03  | 13,345 | [Financial Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/fin_express_20210320_en_hi.zip) |
 Tourism | [Nativeplanet](https://www.nativeplanet.com/) | Until 2021-03  | 31,933 | [Nativeplanet(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-hi-20210315.zip) |
+News | [The Wire](https://thewire.in/) | Until 2021-03  | 98,137 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_hi.zip) |
+	
 
 
 
@@ -164,6 +166,7 @@ News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 155,647 | [PIB (2017-2020)]
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 28,622 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_mr.zip) |
 News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 45,852 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_mr.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 85,071 | [Times of India (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_mr.zip) |
+News | [The Wire](https://thewire.in/) | Until 2021-03  | 25,084 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_mr.zip) |
 
 
 ### English-Punjabi
@@ -202,6 +205,7 @@ Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 141,246 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ur.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 9,939 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_ur.zip) |
+News | [The Wire](https://thewire.in/) | Until 2021-03  | 10,863 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_ur.zip) |
 
 
 ### English-Odia
