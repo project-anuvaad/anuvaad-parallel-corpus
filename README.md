@@ -141,7 +141,7 @@ News | [Sakshi](https://www.sakshi.com/) | Until 2021-03  | 113,458 | [Sakshi (2
 
 ### English-Kannada
 
-Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+Domain | Source | Year  | En-Kn pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 Judicial |Multiple Sources | 2010-2020  | 859,455 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-kn.zip)
 Judicial |Legal Terminologies | NA  | 3,356 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-kn.zip) |
@@ -157,7 +157,7 @@ Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 15,302
 
 ### English-Marathi
 
-Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+Domain | Source | Year  | En-Mr pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 Judicial |Multiple Sources | 2010-2020  | 1,205,571 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-mr.zip)
 Judicial |Legal Terminologies | NA  | 1,052 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-mr.zip) |
@@ -171,7 +171,7 @@ News | [The Wire](https://thewire.in/) | Until 2021-03  | 25,084 | [The Wire (20
 
 ### English-Punjabi
 
-Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+Domain | Source | Year  | En-Pa pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 Judicial |Multiple Sources | 2010-2020  | 1,261,948 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-pa.zip)
 Judicial |HC/SUVAS | NA  | 10,978 | [HC/SUVAS](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/internal-judicial-2021-v1-en-pa.zip) |
@@ -183,7 +183,7 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 30,923 | [PIB 
 
 ### English-Gujarati
 
-Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+Domain | Source | Year  | En-Gu pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 104,591 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_gu.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 29,443 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_gu.zip) |
@@ -193,7 +193,7 @@ News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  |
 
 ### English-Assamese
 
-Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+Domain | Source | Year  | En-As pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 38,100 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_as.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 6,188 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_as.zip) |
@@ -201,7 +201,7 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 6,188 | [PIB A
 
 ### English-Urdu
 
-Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+Domain | Source | Year  | En-Ur pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 141,246 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ur.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 9,939 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_ur.zip) |
@@ -210,7 +210,7 @@ News | [The Wire](https://thewire.in/) | Until 2021-03  | 10,863 | [The Wire (20
 
 ### English-Odia
 
-Domain | Source | Year  | En-Ka pairs count | Corpus Download Link |
+Domain | Source | Year  | En-Or pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 73,020 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_or.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 19,289 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_or.zip) |
