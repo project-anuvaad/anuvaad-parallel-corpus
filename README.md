@@ -50,7 +50,7 @@ General |[DD News National](http://ddnews.gov.in/) | Until 2021-03  | 33,263 | [
 Sports |[DD News Sports](http://ddnews.gov.in/) | Until 2021-03  | 3,666 | [DD News Sports (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dd-sports-en-hi-20210320.zip) |
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 31,933 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-hi-20210315.zip) |
 News |[CatchNews](http://www.catchnews.com/) | Until 2021-03  | 35,525 | [CatchNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/catchnews-en-hi-20210320.zip) |
-News | [DW News](https://www.dw.com/) | 2008-2020  | 56,075 | [DW News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dwnews_2008_2020_en_hi.zip) |
+News | [DW News](https://www.dw.com/) | 2008-2020  | 68,875 | [DW News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dwnews_2008_2020_en_hi.zip) |
 News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 143,139 | [OneIndia (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/oneindia_20210320_en_hi.zip) |
 Sports |[MyKhel](https://www.mykhel.com/) | Until 2021-03  | 15,711 | [MyKhel (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-hi-20210303.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 23,587 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_hi.zip) |
@@ -66,9 +66,12 @@ News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  |
 Financial | [Financial Express](https://www.financialexpress.com/) | Until 2021-03  | 13,345 | [Financial Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/fin_express_20210320_en_hi.zip) |
 Tourism | [Nativeplanet](https://www.nativeplanet.com/) | Until 2021-03  | 31,933 | [Nativeplanet(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-hi-20210315.zip) |
 News | [The Wire](https://thewire.in/) | Until 2021-03  | 98,137 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_hi.zip) |
-News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 112,077 | [Tribune(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/tribune_20210320_en_hi.zip) |
+News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 250,737 | [Tribune(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/tribune_20210320_en_hi.zip) |
+Financial | [ZeeBiz](https://www.zeebiz.com/) | Until 2021-03  | 4,338 | [ZeeBiz(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zeebiz_20210320_en_hi.zip) |
+Government Press Release | [Punjab Govt](http://diprpunjab.gov.in/) | As of 2021-03  | 12,106 | [Punjab Govt(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pa_govt_20210320_en_hi.zip) |
+General | [The Better India](https://www.thebetterindia.com/) | Until 2021-03  | 6,217 | [The Better India(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/betterindia_20210320_en_hi.zip) |
 
-
+	
 
 ### English-Bengali
 
