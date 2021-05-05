@@ -145,6 +145,7 @@ General | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 5,972 
 Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 12,430 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_ml.zip) |
 Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 345 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_ml.zip) |
 Financial | [MarketFeed](https://marketfeed.news/) | Until 2021-03  | 5,431 | [MarketFeed(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/marketfeed_20210320_en_ml.zip) |
+News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 8,932 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_ml.zip) |
 
 
 ### English-Telugu
@@ -211,7 +212,16 @@ Legal |Legal Terminologies | NA  | 3,578 | [Legal Terms](https://anuvaad-paralle
 General |Nouns Dictionary | NA  | 53,665 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-pa.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 204,575 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_pa.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 30,923 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_pa.zip) |
-News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 134,235 | [Tribune(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/tribune_20210320_en_pa.zip) |
+News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 310,221 | [Tribune(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/tribune_20210320_en_pa.zip) |
+Government Press Release | [Punjab Govt](http://diprpunjab.gov.in/) | As of 2021-03  | 32,589 | [Punjab Govt(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pa_govt_20210320_en_pa.zip) |
+News | [Jagran](https://www.jagran.com/) | Until 2021-03  | 34,162 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-news_20210320_en_pa.zip) |	
+Technology | [Jagran](https://www.jagran.com/) | Until 2021-03  | 6,524 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-tech_20210320_en_pa.zip) |	
+Education | [Jagran](https://www.jagran.com/) | Until 2021-03  | 3,155 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-education_20210320_en_pa.zip) |	
+Entertainment | [Jagran](https://www.jagran.com/) | Until 2021-03  | 7,565 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-entertainment_20210320_en_pa.zip) |	
+Financial | [Jagran](https://www.jagran.com/) | Until 2021-03  | 7,741 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-business_20210320_en_pa.zip) |	
+Sports | [Jagran](https://www.jagran.com/) | Until 2021-03  | 9,034 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-sports_20210320_en_pa.zip) |	
+Lifestyle | [Jagran](https://www.jagran.com/) | Until 2021-03  | 2,528 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-lifestyle_20210320_en_pa.zip) |	
+
 
 
 ### English-Gujarati
@@ -225,6 +235,7 @@ News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 104,591 | [PIB (2017-2020)]
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 29,443 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_gu.zip) |
 News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 48,325 | [OneIndia (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/oneindia_20210320_en_gu.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 3,071 | [Times of India (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_gu.zip) |
+Government Press Release | [Gujarat Govt](https://gujaratindia.gov.in/) | As of 2021-03  | 5,260 | [Gujarat Govt(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/gu-govt_20210320_en_gu.zip) |
 
 
 ### English-Assamese
