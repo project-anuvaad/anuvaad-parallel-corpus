@@ -85,7 +85,13 @@ News | [Prothomalo](https://www.prothomalo.com/) | 2014-2020  | 283,947 | [Proth
 News | [DW News](https://www.dw.com/) | 2004-2020  | 23,054 | [DW News (2004-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dwnews_2004_2020_en_bn.zip) |
 News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 34,453 | [OneIndia (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/oneindia_20210320_en_bn.zip) |
 Sports |[MyKhel](https://www.mykhel.com/) | Until 2021-03  | 23,971 | [MyKhel (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/mk_20210320_en_bn.zip) |
-News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 33,297 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_bn.zip) |
+Sports | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 12,617 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_sports_20210320_en_bn.zip) |
+Technology | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 17,083 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_tech_20210320_en_bn.zip) |
+News | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 30,925 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_news_20210320_en_bn.zip) |
+General | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 3,215 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_general_20210320_en_bn.zip) |
+Entertainment | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 6,189 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_bn.zip) |
+Education | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,035 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_education_20210320_en_bn.zip) |
+Financial | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 1,551 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_bn.zip) |
 General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) |
 
     * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
@@ -107,6 +113,13 @@ News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 61,937 | [OneInd
 Sports |[MyKhel](https://www.mykhel.com/) | Until 2021-03  | 35,390 | [MyKhel (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/mk_20210320_en_ta.zip) |
 Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 65,601 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-ta-20210303.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 22,961 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_ta.zip) |
+Sports | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 9,994 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_sports_20210320_en_ta.zip) |
+Technology | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 18,651 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_tech_20210320_en_ta.zip) |
+News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 26,235 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_news_20210320_en_ta.zip) |
+Lifestyle | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 4,356 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_lifestyle_20210320_en_ta.zip) |
+Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 8,557 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_ta.zip) |
+Education | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 3,277 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_education_20210320_en_ta.zip) |
+Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 832 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_ta.zip) |
 
 
 ### English-Malayalam
@@ -125,7 +138,12 @@ Sports |[MyKhel](https://www.mykhel.com/) | Until 2021-03  | 26,526 | [MyKhel (2
 Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 49,664 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-ml-20210303.zip) |
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 27,024 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-ml-20210315.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 16,325 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_ml.zip) |
-News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 42,456 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_ml.zip) |
+Sports | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 13,305 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_sports_20210320_en_ml.zip) |
+Technology | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 15,318 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_tech_20210320_en_ml.zip) |
+News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 36,337 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_news_20210320_en_ml.zip) |
+General | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 5,972 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_general_20210320_en_ml.zip) |
+Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 12,430 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_ml.zip) |
+Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 345 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_ml.zip) |
 Financial | [MarketFeed](https://marketfeed.news/) | Until 2021-03  | 5,431 | [MarketFeed(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/marketfeed_20210320_en_ml.zip) |
 
 
@@ -174,7 +192,11 @@ Legal |Legal Terminologies | NA  | 1,052 | [Legal Terms](https://anuvaad-paralle
 General |Nouns Dictionary | NA  | 57,307 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-mr.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 155,647 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_mr.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 28,622 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_mr.zip) |
-News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 45,852 | [Indian Express (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_mr.zip) |
+Sports | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 51,857 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_sports_20210320_en_mr.zip) |
+News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 110,823 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_news_20210320_en_mr.zip) |
+Lifestyle | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 2,346 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_lifestyle_20210320_en_mr.zip) |
+Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 49,821 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_mr.zip) |
+Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 6,869 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_mr.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 137,647 | [Times of India (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_mr.zip) |
 News | [The Wire](https://thewire.in/) | Until 2021-03  | 25,084 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_mr.zip) |
 
