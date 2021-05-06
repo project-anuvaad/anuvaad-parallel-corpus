@@ -128,7 +128,7 @@ Domain | Source | Year  | En-Ml pairs count | Corpus Download Link |
 Legal |Multiple Sources | 2010-2020  | 1,029,757 | [Indian Judiciary](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ik-2021-v1-en-ml.zip)
 Legal |HC/SUVAS | NA  | 8,222 | [HC/SUVAS](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/internal-judicial-2021-v1-en-ml.zip) |
 Legal |Legal Terminologies | NA  | 3,377 | [Legal Terms](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/legal-terms-2021-v1-en-ml.zip) |
-General |Nouns Dictionary | NA  | 66,450 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-hi.zip) |
+General |Nouns Dictionary | NA  | 66,450 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-ml.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 27,538 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_ml.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2014-2016  | 13,113 | [PIB Archives (2014-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2014_2016_en_ml.zip) |
 General |[Wikipedia](https://www.wikipedia.org/) | Until 2021-02  | 44,370 | [Wikipedia (20210201)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/wikipedia-en-ml-20210201.zip) |
@@ -233,7 +233,7 @@ General |Nouns Dictionary | NA  | 55,037 | [Nouns Dict](https://anuvaad-parallel
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 104,591 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_gu.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 29,443 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_gu.zip) |
 News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 48,325 | [OneIndia (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/oneindia_20210320_en_gu.zip) |
-News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 3,071 | [Times of India (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_20210320_en_gu.zip) |
+News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 3,071 | [Times of India (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_gu.zip) |
 Government Press Release | [Gujarat Govt](https://gujaratindia.gov.in/) | As of 2021-03  | 5,260 | [Gujarat Govt(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/gu-govt_20210320_en_gu.zip) |
 
 
