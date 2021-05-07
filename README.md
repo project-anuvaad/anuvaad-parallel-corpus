@@ -5,18 +5,19 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 >
 
 ## Status
-The current status of the parallel corpus built (& keeps growing everyday!) : 
+The current status of the parallel corpus built 
+### (Total 16.26 Million pairs & keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  3,087,529         |
-English-Bengali   |  1,367,920         |
-English-Tamil     |  1,307,459         |
-English-Malayalam |  1,409,144         |
+English-Hindi     |  3,681,479         |
+English-Bengali   |  1,408,239         |
+English-Tamil     |  1,379,361         |
+English-Malayalam |  1,459,326         |
 English-Telugu    |  1,578,480         |
 English-Kannada   |  1,172,723         |
-English-Marathi   |  1,656,782         |
-English-Punjabi   |  1,699,902         |
-English-Gujarati  |    185,430         |
+English-Marathi   |  1,832,646         |
+English-Punjabi   |  1,979,186         |
+English-Gujarati  |  1,476,535         |
 English-Assamese  |     44,288         |
 English-Urdu      |    162,048         |
 English-Odia      |     92,309         |
