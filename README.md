@@ -9,7 +9,7 @@ The current status of the parallel corpus built
 ### (Total 16.26 Million pairs & keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  3,681,479         |
+English-Hindi     |  3,678,058         |
 English-Bengali   |  1,408,239         |
 English-Tamil     |  1,379,361         |
 English-Malayalam |  1,459,326         |
@@ -70,7 +70,7 @@ News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 250,737 | [Tr
 Financial | [ZeeBiz](https://www.zeebiz.com/) | Until 2021-03  | 4,338 | [ZeeBiz(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zeebiz_20210320_en_hi.zip) |
 Government Press Release | [Punjab Govt](http://diprpunjab.gov.in/) | As of 2021-03  | 12,106 | [Punjab Govt(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pa_govt_20210320_en_hi.zip) |
 General | [The Better India](https://www.thebetterindia.com/) | Until 2021-03  | 6,217 | [The Better India(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/betterindia_20210320_en_hi.zip) |
-News | [Jagran](https://www.jagran.com/) | Until 2021-03  | 12,214 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-news_20210320_en_hi.zip) |
+News | [Jagran](https://www.jagran.com/) | Until 2021-03  | 8,793 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-news_20210320_en_hi.zip) |
 Technology | [Jagran](https://www.jagran.com/) | Until 2021-03  | 63,555 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-tech_20210320_en_hi.zip) |	
 Education | [Jagran](https://www.jagran.com/) | Until 2021-03  | 26,770 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-education_20210320_en_hi.zip) |	
 Entertainment | [Jagran](https://www.jagran.com/) | Until 2021-03  | 50,328 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-entertainment_20210320_en_hi.zip) |	
