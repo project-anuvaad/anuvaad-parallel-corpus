@@ -9,14 +9,14 @@ The current status of the parallel corpus built
 ### (Total 16.26 Million pairs & keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  3,678,058         |
+English-Hindi     |  3,818,325         |
 English-Bengali   |  1,408,239         |
 English-Tamil     |  1,379,361         |
 English-Malayalam |  1,459,326         |
 English-Telugu    |  1,578,480         |
 English-Kannada   |  1,172,723         |
 English-Marathi   |  1,832,646         |
-English-Punjabi   |  1,979,186         |
+English-Punjabi   |  2,154,298         |
 English-Gujarati  |  1,476,535         |
 English-Assamese  |     44,288         |
 English-Urdu      |    162,048         |
@@ -66,7 +66,7 @@ Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 16,2
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 198,346 | [Times of India(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_hi.zip) |
 Financial | [Financial Express](https://www.financialexpress.com/) | Until 2021-03  | 13,345 | [Financial Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/fin_express_20210320_en_hi.zip) |
 News | [The Wire](https://thewire.in/) | Until 2021-03  | 98,137 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_hi.zip) |
-News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 250,737 | [Tribune(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/tribune_20210320_en_hi.zip) |
+News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 391,004 | [Tribune(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/tribune_20210320_en_hi.zip) |
 Financial | [ZeeBiz](https://www.zeebiz.com/) | Until 2021-03  | 4,338 | [ZeeBiz(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zeebiz_20210320_en_hi.zip) |
 Government Press Release | [Punjab Govt](http://diprpunjab.gov.in/) | As of 2021-03  | 12,106 | [Punjab Govt(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pa_govt_20210320_en_hi.zip) |
 General | [The Better India](https://www.thebetterindia.com/) | Until 2021-03  | 6,217 | [The Better India(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/betterindia_20210320_en_hi.zip) |
@@ -218,7 +218,7 @@ Legal |Legal Terminologies | NA  | 3,578 | [Legal Terms](https://anuvaad-paralle
 General |Nouns Dictionary | NA  | 53,665 | [Nouns Dict](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nouns-dict-2021-v1-en-pa.zip) |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 204,575 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_pa.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 30,923 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_pa.zip) |
-News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 310,221 | [Tribune(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/tribune_20210320_en_pa.zip) |
+News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 485,333 | [Tribune(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/tribune_20210320_en_pa.zip) |
 Government Press Release | [Punjab Govt](http://diprpunjab.gov.in/) | As of 2021-03  | 32,589 | [Punjab Govt(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pa_govt_20210320_en_pa.zip) |
 News | [Jagran](https://www.jagran.com/) | Until 2021-03  | 34,162 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-news_20210320_en_pa.zip) |	
 Technology | [Jagran](https://www.jagran.com/) | Until 2021-03  | 6,524 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-tech_20210320_en_pa.zip) |	
