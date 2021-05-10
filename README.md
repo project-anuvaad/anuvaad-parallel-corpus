@@ -6,15 +6,15 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 
 ## Status
 The current status of the parallel corpus built 
-### (Total 16.26 Million pairs & keeps growing everyday!) : 
+### (Total 16.74 Million pairs & keeps growing everyday!) : 
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  3,818,325         |
-English-Bengali   |  1,408,239         |
-English-Tamil     |  1,379,361         |
+English-Hindi     |  3,899,621         |
+English-Bengali   |  1,426,662         |
+English-Tamil     |  1,403,914         |
 English-Malayalam |  1,459,326         |
-English-Telugu    |  1,578,480         |
-English-Kannada   |  1,172,723         |
+English-Telugu    |  1,588,534         |
+English-Kannada   |  1,209,927         |
 English-Marathi   |  1,832,646         |
 English-Punjabi   |  2,154,298         |
 English-Gujarati  |  1,476,535         |
@@ -70,13 +70,14 @@ News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 391,004 | [Tr
 Financial | [ZeeBiz](https://www.zeebiz.com/) | Until 2021-03  | 4,338 | [ZeeBiz(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zeebiz_20210320_en_hi.zip) |
 Government Press Release | [Punjab Govt](http://diprpunjab.gov.in/) | As of 2021-03  | 12,106 | [Punjab Govt(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pa_govt_20210320_en_hi.zip) |
 General | [The Better India](https://www.thebetterindia.com/) | Until 2021-03  | 6,217 | [The Better India(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/betterindia_20210320_en_hi.zip) |
-News | [Jagran](https://www.jagran.com/) | Until 2021-03  | 8,793 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-news_20210320_en_hi.zip) |
+News | [Jagran](https://www.jagran.com/) | Until 2021-03  | 75,002 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-news_20210320_en_hi.zip) |
 Technology | [Jagran](https://www.jagran.com/) | Until 2021-03  | 63,555 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-tech_20210320_en_hi.zip) |	
 Education | [Jagran](https://www.jagran.com/) | Until 2021-03  | 26,770 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-education_20210320_en_hi.zip) |	
 Entertainment | [Jagran](https://www.jagran.com/) | Until 2021-03  | 50,328 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-entertainment_20210320_en_hi.zip) |	
 Financial | [Jagran](https://www.jagran.com/) | Until 2021-03  | 26,497 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-business_20210320_en_hi.zip) |	
 Sports | [Jagran](https://www.jagran.com/) | Until 2021-03  | 34,190 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-sports_20210320_en_hi.zip) |	
 Lifestyle | [Jagran](https://www.jagran.com/) | Until 2021-03  | 6,253 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-lifestyle_20210320_en_hi.zip) |	
+News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 15,087 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_hi.zip) |
 
 
 ### English-Bengali
@@ -98,6 +99,7 @@ General | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 3,215 |
 Entertainment | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 6,189 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_bn.zip) |
 Education | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,035 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_education_20210320_en_bn.zip) |
 Financial | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 1,551 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_bn.zip) |
+News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 18,423 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_bn.zip) |
 General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) |
 
     * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
@@ -126,6 +128,7 @@ Lifestyle | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 4,35
 Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 8,557 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_ta.zip) |
 Education | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 3,277 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_education_20210320_en_ta.zip) |
 Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 832 | [Indian Express(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_ta.zip) |
+News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 24,553 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_ta.zip) |
 
 
 ### English-Malayalam
@@ -171,6 +174,7 @@ Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 67,688 
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 40,733 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-te-20210315.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 17,159 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_te.zip) |
 News | [Sakshi](https://www.sakshi.com/) | Until 2021-03  | 113,458 | [Sakshi (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/sakshi_20210320_en_te.zip) |
+News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 10,054 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_te.zip) |
 
 
 
@@ -188,7 +192,7 @@ Sports |[MyKhel](https://www.mykhel.com/) | Until 2021-03  | 30,416 | [MyKhel (2
 Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 57,151 | [DriveSpark (20210303)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/drivespark-en-kn-20210303.zip) |
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 31,654 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-kn-20210315.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 15,302 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_kn.zip) |
-
+News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 37,204 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_kn.zip) |
 
 ### English-Marathi
 
