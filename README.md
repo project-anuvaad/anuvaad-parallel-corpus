@@ -10,7 +10,7 @@ The current status of the parallel corpus built
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
 English-Hindi     |  4,031,711         |
-English-Bengali   |  1,426,662         |
+English-Bengali   |  1,477,621         |
 English-Tamil     |  1,403,914         |
 English-Malayalam |  1,459,326         |
 English-Telugu    |  1,588,534         |
@@ -93,14 +93,15 @@ News | [Prothomalo](https://www.prothomalo.com/) | 2014-2020  | 283,947 | [Proth
 News | [DW News](https://www.dw.com/) | 2004-2020  | 23,054 | [DW News (2004-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/dwnews_2004_2020_en_bn.zip) |
 News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 34,453 | [OneIndia (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/oneindia_20210320_en_bn.zip) |
 Sports |[MyKhel](https://www.mykhel.com/) | Until 2021-03  | 23,971 | [MyKhel (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/mk_20210320_en_bn.zip) |
-Sports | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 12,617 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_sports_20210320_en_bn.zip) |
+Sports | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 29,318 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_sports_20210320_en_bn.zip) |
 Technology | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 17,083 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_tech_20210320_en_bn.zip) |
-News | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 30,925 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_news_20210320_en_bn.zip) |
+News | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 49,633 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_news_20210320_en_bn.zip) |
 General | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 3,215 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_general_20210320_en_bn.zip) |
-Entertainment | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 6,189 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_bn.zip) |
+Entertainment | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 19,134 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_bn.zip) |
 Education | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,035 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_education_20210320_en_bn.zip) |
-Financial | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 1,551 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_bn.zip) |
+Financial | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,649 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_bn.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 18,423 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_bn.zip) |
+Lifestyle | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 1,517 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_lifestyle_20210320_en_bn.zip) |
 General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) |
 
     * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
