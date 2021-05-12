@@ -10,7 +10,7 @@ The current status of the parallel corpus built
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
 English-Hindi     |  4,031,711         |
-English-Bengali   |  1,477,621         |
+English-Bengali   |  1,484,421         |
 English-Tamil     |  1,403,914         |
 English-Malayalam |  1,459,326         |
 English-Telugu    |  1,588,534         |
@@ -18,7 +18,7 @@ English-Kannada   |  1,209,927         |
 English-Marathi   |  1,832,646         |
 English-Punjabi   |  2,154,298         |
 English-Gujarati  |  1,476,535         |
-English-Assamese  |     44,288         |
+English-Assamese  |     47,174         |
 English-Urdu      |    162,048         |
 English-Odia      |     92,309         |
 
@@ -102,6 +102,7 @@ Education | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,035
 Financial | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,649 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_bn.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 18,423 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_bn.zip) |
 Lifestyle | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 1,517 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_lifestyle_20210320_en_bn.zip) |
+News | [The Sentinel](https://www.sentinelassam.com/) | Until 2021-03  | 6,800 | [The Sentinel(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/sentinel_20210320_en_bn.zip) |
 General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) |
 
     * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
@@ -256,6 +257,7 @@ Domain | Source | Year  | En-As pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 38,100 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_as.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 6,188 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_as.zip) |
+News | [The Sentinel](https://www.sentinelassam.com/) | Until 2021-03  | 2,886 | [The Sentinel(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/sentinel_20210320_en_as.zip) |
 
 
 ### English-Urdu
