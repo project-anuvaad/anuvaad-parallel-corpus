@@ -78,7 +78,7 @@ Financial | [Jagran](https://www.jagran.com/) | Until 2021-03  | 26,497 | [Jagra
 Sports | [Jagran](https://www.jagran.com/) | Until 2021-03  | 34,190 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-sports_20210320_en_hi.zip) |	
 Lifestyle | [Jagran](https://www.jagran.com/) | Until 2021-03  | 6,253 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-lifestyle_20210320_en_hi.zip) |	
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 15,087 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_hi.zip) |
-Financial | [Business Standard](https://www.business-standard.com/) | Until 2021-03  | 26,497 | [Business Standard(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/business_standard_20210320_en_hi.zip) |
+Financial | [Business Standard](https://www.business-standard.com/) | Until 2021-03  | 132,090 | [Business Standard(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/business_standard_20210320_en_hi.zip) |
 
 
 ### English-Bengali
