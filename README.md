@@ -79,6 +79,7 @@ Sports | [Jagran](https://www.jagran.com/) | Until 2021-03  | 34,190 | [Jagran(2
 Lifestyle | [Jagran](https://www.jagran.com/) | Until 2021-03  | 6,253 | [Jagran(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-lifestyle_20210320_en_hi.zip) |	
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 15,087 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_hi.zip) |
 Financial | [Business Standard](https://www.business-standard.com/) | Until 2021-03  | 132,090 | [Business Standard(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/business_standard_20210320_en_hi.zip) |
+Government Press Release | [Pranabmukherjee](http://pranabmukherjee.nic.in/) | As of 2021-03  | 43,259 | [Pranabmukherjee(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pranabmukherjee_20210320_en_hi.zip) |
 
 
 ### English-Bengali
