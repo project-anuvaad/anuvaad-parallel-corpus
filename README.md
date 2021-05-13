@@ -99,7 +99,7 @@ News | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 49,633 | [
 General | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 3,215 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_general_20210320_en_bn.zip) |
 Entertainment | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 19,134 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_bn.zip) |
 Education | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,035 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_education_20210320_en_bn.zip) |
-Financial | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,649 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_bn.zip) |
+Financial | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,640 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_bn.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 18,423 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_bn.zip) |
 Lifestyle | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 1,517 | [kolkata24x7(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_lifestyle_20210320_en_bn.zip) |
 News | [The Sentinel](https://www.sentinelassam.com/) | Until 2021-03  | 6,800 | [The Sentinel(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/sentinel_20210320_en_bn.zip) |
