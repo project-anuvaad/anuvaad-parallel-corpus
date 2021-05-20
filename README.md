@@ -34,7 +34,7 @@ The code for building the below mentioned datasets are available under https://g
 >
 >
 ## Links
-### English-Hindi
+###  `English-Hindi`
 
 Domain | Source | Year  | En-Hi pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -82,7 +82,7 @@ Financial | [Business Standard](https://www.business-standard.com/) | Until 2021
 Government Press Release | [Pranabmukherjee](http://pranabmukherjee.nic.in/) | As of 2021-03  | 43,259 | [Pranabmukherjee(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pranabmukherjee_20210320_en_hi.zip) |
 
 
-### English-Bengali
+### `English-Bengali`
 
 Domain | Source | Year  | En-Bn pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -109,7 +109,7 @@ General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-p
     * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
 
 
-### English-Tamil
+### `English-Tamil`
 
 Domain | Source | Year  | En-Ta pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -135,7 +135,7 @@ Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 832 
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 24,553 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_ta.zip) |
 
 
-### English-Malayalam
+### `English-Malayalam`
 
 Domain | Source | Year  | En-Ml pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -161,7 +161,7 @@ Financial | [MarketFeed](https://marketfeed.news/) | Until 2021-03  | 5,431 | [M
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 8,932 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_ml.zip) |
 
 
-### English-Telugu
+### `English-Telugu`
 
 Domain | Source | Year  | En-Te pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -182,7 +182,7 @@ News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 10,05
 
 
 
-### English-Kannada
+### `English-Kannada`
 
 Domain | Source | Year  | En-Kn pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -198,7 +198,7 @@ Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 31,65
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 15,302 | [GoodReturns(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_kn.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 37,204 | [AsianetNews(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_kn.zip) |
 
-### English-Marathi
+### `English-Marathi`
 
 Domain | Source | Year  | En-Mr pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -216,7 +216,7 @@ News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  |
 News | [The Wire](https://thewire.in/) | Until 2021-03  | 25,084 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_mr.zip) |
 
 
-### English-Punjabi
+### `English-Punjabi`
 
 Domain | Source | Year  | En-Pa pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -238,7 +238,7 @@ Lifestyle | [Jagran](https://www.jagran.com/) | Until 2021-03  | 2,528 | [Jagran
 
 
 
-### English-Gujarati
+### `English-Gujarati`
 
 Domain | Source | Year  | En-Gu pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -252,7 +252,7 @@ News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  |
 Government Press Release | [Gujarat Govt](https://gujaratindia.gov.in/) | As of 2021-03  | 5,260 | [Gujarat Govt(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/gu-govt_20210320_en_gu.zip) |
 
 
-### English-Assamese
+### `English-Assamese`
 
 Domain | Source | Year  | En-As pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -261,7 +261,7 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 6,188 | [PIB A
 News | [The Sentinel](https://www.sentinelassam.com/) | Until 2021-03  | 2,886 | [The Sentinel(20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/sentinel_20210320_en_as.zip) |
 
 
-### English-Urdu
+### `English-Urdu`
 
 Domain | Source | Year  | En-Ur pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
@@ -270,7 +270,7 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 9,939 | [PIB A
 News | [The Wire](https://thewire.in/) | Until 2021-03  | 10,863 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_ur.zip) |
 
 
-### English-Odia
+### `English-Odia`
 
 Domain | Source | Year  | En-Or pairs count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
