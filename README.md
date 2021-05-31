@@ -9,13 +9,13 @@ The current status of the parallel corpus built :
 ### (~ 17.1 million pairs & is growing everyday!)
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  4,168,224         |
+English-Hindi     |  4,302,291         |
 English-Bengali   |  1,484,421         |
 English-Tamil     |  1,403,914         |
 English-Malayalam |  1,459,326         |
 English-Telugu    |  1,588,534         |
 English-Kannada   |  1,209,927         |
-English-Marathi   |  1,832,646         |
+English-Marathi   |  1,967,846         |
 English-Punjabi   |  2,154,298         |
 English-Gujarati  |  1,476,535         |
 English-Assamese  |     47,174         |
@@ -80,6 +80,13 @@ Lifestyle | [Jagran](https://www.jagran.com/) | Until 2021-03  | 6,253 | [Jagran
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 15,087 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_hi.zip) |
 Financial | [Business Standard](https://www.business-standard.com/) | Until 2021-03  | 268,603 | [Business Standard (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/business_standard_20210320_en_hi.zip) |
 Government Press Release | [Pranabmukherjee](http://pranabmukherjee.nic.in/) | As of 2021-03  | 43,259 | [Pranabmukherjee (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pranabmukherjee_20210320_en_hi.zip) |
+Entertainment | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 16,873 | [Lokmat-Entertainment (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-entertainment_20210501_en_hi.zip) |   
+News | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 68,793 | [Lokmat-News (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-news_20210501_en_hi.zip) | 
+Lifestyle | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 1,223 | [Lokmat-Lifestyle (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-lifestyle_20210501_en_hi.zip) | 
+Sports | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 36,279 | [Lokmat-Sports (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-sports_20210501_en_hi.zip) | 
+Technology | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 1,946 | [Lokmat-Technology (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-tech_20210501_en_hi.zip) | 
+Financial | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 6,751 | [Lokmat-Financial (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-financial_20210501_en_hi.zip) | 
+Healthcare | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2,202 | [Lokmat-Healthcare (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-healthcare_20210501_en_hi.zip) |  
 
 
 ### `English-Bengali`
@@ -181,7 +188,6 @@ News | [Sakshi](https://www.sakshi.com/) | Until 2021-03  | 113,458 | [Sakshi (2
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 10,054 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_te.zip) |
 
 
-
 ### `English-Kannada`
 
 Domain | Source | Year  | En-Kn pairs count | Corpus Download Link |
@@ -197,6 +203,7 @@ Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 57,151 
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 31,654 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-kn-20210315.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 15,302 | [GoodReturns (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_kn.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 37,204 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_kn.zip) |
+
 
 ### `English-Marathi`
 
@@ -214,6 +221,13 @@ Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 
 Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 6,869 | [IE-Financial (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_mr.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 137,647 | [TOI-News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_mr.zip) |
 News | [The Wire](https://thewire.in/) | Until 2021-03  | 25,084 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_mr.zip) |
+Entertainment | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 8738 | [Lokmat-Entertainment (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-entertainment_20210501_en_mr.zip) |   
+News | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 77811 | [Lokmat-News (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-news_20210501_en_mr.zip) | 
+Lifestyle | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2686 | [Lokmat-Lifestyle (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-lifestyle_20210501_en_mr.zip) | 
+Sports | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 33025 | [Lokmat-Sports (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-sports_20210501_en_mr.zip) | 
+Technology | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2943 | [Lokmat-Technology (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-tech_20210501_en_mr.zip) | 
+Financial | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 5509 | [Lokmat-Financial (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-financial_20210501_en_mr.zip) | 
+Healthcare | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 4488 | [Lokmat-Healthcare (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-healthcare_20210501_en_mr.zip) |  
 
 
 ### `English-Punjabi`
@@ -235,7 +249,6 @@ Entertainment | [Jagran](https://www.jagran.com/) | Until 2021-03  | 7,565 | [Ja
 Financial | [Jagran](https://www.jagran.com/) | Until 2021-03  | 7,741 | [Jagran-Financial (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-business_20210320_en_pa.zip) |	
 Sports | [Jagran](https://www.jagran.com/) | Until 2021-03  | 9,034 | [Jagran-Sports (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-sports_20210320_en_pa.zip) |	
 Lifestyle | [Jagran](https://www.jagran.com/) | Until 2021-03  | 2,528 | [Jagran-Lifestyle (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/jagran-lifestyle_20210320_en_pa.zip) |	
-
 
 
 ### `English-Gujarati`
