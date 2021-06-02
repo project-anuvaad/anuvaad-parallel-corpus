@@ -6,16 +6,16 @@ Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usa
 
 ## Status
 The current status of the parallel corpus built :
-### (~ 17.1 million pairs & is growing everyday!)
+### (~ 18 million pairs & is growing everyday!)
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  4,302,291         |
+English-Hindi     |  4,757,301         |
 English-Bengali   |  1,484,421         |
 English-Tamil     |  1,403,914         |
 English-Malayalam |  1,459,326         |
 English-Telugu    |  1,588,534         |
 English-Kannada   |  1,209,927         |
-English-Marathi   |  1,967,846         |
+English-Marathi   |  2,411,892         |
 English-Punjabi   |  2,154,298         |
 English-Gujarati  |  1,476,535         |
 English-Assamese  |     47,174         |
@@ -63,7 +63,7 @@ General | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 547 | 
 Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 43,202 | [IE-Entertainment (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_hi.zip) |
 Education | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 18,898 | [IE-Education (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_education_20210320_en_hi.zip) |
 Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 16,212 | [IE-Financial (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_hi.zip) |
-News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 198,346 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_hi.zip) |
+News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 653,356 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_hi.zip) |
 Financial | [Financial Express](https://www.financialexpress.com/) | Until 2021-03  | 13,345 | [Financial Express (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/fin_express_20210320_en_hi.zip) |
 News | [The Wire](https://thewire.in/) | Until 2021-03  | 98,137 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_hi.zip) |
 News | [Tribune](https://www.tribuneindia.com/) | Until 2021-03  | 391,004 | [Tribune (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/tribune_20210320_en_hi.zip) |
@@ -219,15 +219,15 @@ News | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 110,823 |
 Lifestyle | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 2,346 | [IE-Lifestyle (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_lifestyle_20210320_en_mr.zip) |
 Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 49,821 | [IE-Entertainment (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_entertainment_20210320_en_mr.zip) |
 Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 6,869 | [IE-Financial (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_mr.zip) |
-News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 137,647 | [TOI-News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_mr.zip) |
+News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 581,693 | [TOI-News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_mr.zip) |
 News | [The Wire](https://thewire.in/) | Until 2021-03  | 25,084 | [The Wire (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/thewire_20210320_en_mr.zip) |
-Entertainment | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 8738 | [Lokmat-Entertainment (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-entertainment_20210501_en_mr.zip) |   
-News | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 77811 | [Lokmat-News (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-news_20210501_en_mr.zip) | 
-Lifestyle | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2686 | [Lokmat-Lifestyle (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-lifestyle_20210501_en_mr.zip) | 
-Sports | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 33025 | [Lokmat-Sports (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-sports_20210501_en_mr.zip) | 
-Technology | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2943 | [Lokmat-Technology (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-tech_20210501_en_mr.zip) | 
-Financial | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 5509 | [Lokmat-Financial (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-financial_20210501_en_mr.zip) | 
-Healthcare | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 4488 | [Lokmat-Healthcare (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-healthcare_20210501_en_mr.zip) |  
+Entertainment | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 8,738 | [Lokmat-Entertainment (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-entertainment_20210501_en_mr.zip) |   
+News | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 77,811 | [Lokmat-News (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-news_20210501_en_mr.zip) | 
+Lifestyle | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2,686 | [Lokmat-Lifestyle (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-lifestyle_20210501_en_mr.zip) | 
+Sports | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 33,025 | [Lokmat-Sports (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-sports_20210501_en_mr.zip) | 
+Technology | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2,943 | [Lokmat-Technology (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-tech_20210501_en_mr.zip) | 
+Financial | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 5,509 | [Lokmat-Financial (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-financial_20210501_en_mr.zip) | 
+Healthcare | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 4,488 | [Lokmat-Healthcare (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-healthcare_20210501_en_mr.zip) |  
 
 
 ### `English-Punjabi`
