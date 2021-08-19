@@ -21,14 +21,14 @@ The current status of the parallel corpus built :
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
 English-Hindi     |  4,757,301         |
-English-Bengali   |  1,484,421         |
-English-Tamil     |  1,403,914         |
-English-Malayalam |  1,459,326         |
-English-Telugu    |  1,588,534         |
-English-Kannada   |  1,209,927         |
+English-Bengali   |  1,556,390         |
+English-Tamil     |  1,443,749         |
+English-Malayalam |  1,486,825         |
+English-Telugu    |  1,637,767         |
+English-Kannada   |  1,286,690         |
 English-Marathi   |  2,411,892         |
 English-Punjabi   |  2,154,298         |
-English-Gujarati  |  1,476,535         |
+English-Gujarati  |  1,559,241         |
 English-Assamese  |     47,174         |
 English-Urdu      |    162,048         |
 English-Odia      |     92,309         |
@@ -122,6 +122,7 @@ Financial | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 2,640
 Lifestyle | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 1,517 | [kolkata24x7-Lifestyle (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_lifestyle_20210320_en_bn.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 18,423 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_bn.zip) |
 News | [The Sentinel](https://www.sentinelassam.com/) | Until 2021-03  | 6,800 | [The Sentinel (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/sentinel_20210320_en_bn.zip) |
+News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 71,969 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_bn.zip) |
 General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) |
 
     * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
@@ -151,6 +152,7 @@ Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 
 Education | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 3,277 | [IE-Education 20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_education_20210320_en_ta.zip) |
 Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 832 | [IE-Financial (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_ta.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 24,553 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_ta.zip) |
+News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 39,835 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_ta.zip) |
 
 
 ### `English-Malayalam`
@@ -177,6 +179,7 @@ Entertainment | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 
 Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 345 | [IE-Financial (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_ml.zip) |
 Financial | [MarketFeed](https://marketfeed.news/) | Until 2021-03  | 5,431 | [MarketFeed (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/marketfeed_20210320_en_ml.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 8,932 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_ml.zip) |
+News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 27,499 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_ml.zip) |
 
 
 ### `English-Telugu`
@@ -197,6 +200,7 @@ Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 40,73
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 17,159 | [GoodReturns (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_te.zip) |
 News | [Sakshi](https://www.sakshi.com/) | Until 2021-03  | 113,458 | [Sakshi (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/sakshi_20210320_en_te.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 10,054 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_te.zip) |
+News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 49,233 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_te.zip) |
 
 
 ### `English-Kannada`
@@ -214,6 +218,7 @@ Automobile |[DriveSpark](https://www.drivespark.com/) | Until 2021-03  | 57,151 
 Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 31,654 | [Native Planet (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/nativeplanet-en-kn-20210315.zip) |
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 15,302 | [GoodReturns (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_kn.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 37,204 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_kn.zip) |
+News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 76,763 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_kn.zip) |
 
 
 ### `English-Marathi`
@@ -272,7 +277,7 @@ General |Nouns Dictionary | NA  | 55,037 | [Nouns Dict](https://anuvaad-parallel
 News | [PIB](https://www.pib.gov.in/) | 2017-2020  | 104,591 | [PIB (2017-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pib_2017_2020_en_gu.zip)
 News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 29,443 | [PIB Archives (2015-2016)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/pibarchives_2015_2016_en_gu.zip) |
 News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 48,325 | [OneIndia (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/oneindia_20210320_en_gu.zip) |
-News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 3,071 | [TOI-News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_gu.zip) |
+News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 85,777 | [TOI-News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_gu.zip) |
 Government Press Release | [Gujarat Govt](https://gujaratindia.gov.in/) | As of 2021-03  | 5,260 | [Gujarat Govt (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/gu-govt_20210320_en_gu.zip) |
 
 
