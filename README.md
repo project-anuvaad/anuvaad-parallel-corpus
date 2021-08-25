@@ -20,15 +20,15 @@ The current status of the parallel corpus built :
 ### (~ 18 million pairs & is growing everyday!)
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
-English-Hindi     |  4,757,301         |
-English-Bengali   |  1,556,390         |
-English-Tamil     |  1,443,749         |
-English-Malayalam |  1,486,825         |
-English-Telugu    |  1,637,767         |
-English-Kannada   |  1,286,690         |
-English-Marathi   |  2,411,892         |
+English-Hindi     |  5,627,366         |
+English-Bengali   |  1,633,224         |
+English-Tamil     |  1,522,854         |
+English-Malayalam |  1,505,760         |
+English-Telugu    |  1,660,974        |
+English-Kannada   |  1,352,017         |
+English-Marathi   |  2,537,853         |
 English-Punjabi   |  2,154,298         |
-English-Gujarati  |  1,559,241         |
+English-Gujarati  |  1,656,616         |
 English-Assamese  |     47,174         |
 English-Urdu      |    162,048         |
 English-Odia      |     92,309         |
@@ -97,7 +97,8 @@ Lifestyle | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 1,223 | [Lokmat
 Sports | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 36,279 | [Lokmat-Sports (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-sports_20210501_en_hi.zip) | 
 Technology | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 1,946 | [Lokmat-Technology (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-tech_20210501_en_hi.zip) | 
 Financial | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 6,751 | [Lokmat-Financial (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-financial_20210501_en_hi.zip) | 
-Healthcare | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2,202 | [Lokmat-Healthcare (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-healthcare_20210501_en_hi.zip) |  
+Healthcare | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2,202 | [Lokmat-Healthcare (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-healthcare_20210501_en_hi.zip) | 
+News | [Zee News](https://zeenews.india.com/) | Until 2021-04  | 870,065 | [Zee-News (2011-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zee_30042021_en_hi.zip) |
 
 
 ### `English-Bengali`
@@ -123,6 +124,7 @@ Lifestyle | [kolkata24x7](https://www.kolkata24x7.com/) | Until 2021-03  | 1,517
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 18,423 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_bn.zip) |
 News | [The Sentinel](https://www.sentinelassam.com/) | Until 2021-03  | 6,800 | [The Sentinel (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/sentinel_20210320_en_bn.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 71,969 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_bn.zip) |
+News | [Zee News](https://zeenews.india.com/) | Until 2021-04  | 76,834 | [Zee-News (2011-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zee_30042021_en_bn.zip) |
 General | Multiple sources* | NA  | 223,574 | [General Corpus](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/anuvaad_general_corpus_en_bn.zip) |
 
     * - General corpus from Wikipedia, Custom NER, Wikinews, PMIndia etc.
@@ -153,6 +155,7 @@ Education | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 3,27
 Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 832 | [IE-Financial (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/ie_business_20210320_en_ta.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 24,553 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_ta.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 39,835 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_ta.zip) |
+News | [Zee News](https://zeenews.india.com/) | Until 2021-04  | 79,105 | [Zee-News (2011-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zee_30042021_en_ta.zip) |
 
 
 ### `English-Malayalam`
@@ -180,6 +183,7 @@ Financial | [Indian Express](https://indianexpress.com/) | Until 2021-03  | 345 
 Financial | [MarketFeed](https://marketfeed.news/) | Until 2021-03  | 5,431 | [MarketFeed (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/marketfeed_20210320_en_ml.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 8,932 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_ml.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 27,499 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_ml.zip) |
+News | [Zee News](https://zeenews.india.com/) | Until 2021-04  | 18,935 | [Zee-News (2011-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zee_30042021_en_ml.zip) |
 
 
 ### `English-Telugu`
@@ -201,6 +205,7 @@ Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 17,159
 News | [Sakshi](https://www.sakshi.com/) | Until 2021-03  | 113,458 | [Sakshi (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/sakshi_20210320_en_te.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 10,054 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_te.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 49,233 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_te.zip) |
+News | [Zee News](https://zeenews.india.com/) | Until 2021-04  | 23,207 | [Zee-News (2011-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zee_30042021_en_te.zip) |
 
 
 ### `English-Kannada`
@@ -219,6 +224,7 @@ Tourism |[Native Planet](https://www.nativeplanet.com/) | Until 2021-03  | 31,65
 Financial | [GoodReturns](https://www.goodreturns.in/) | Until 2021-03  | 15,302 | [GoodReturns (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/goodreturns_20210320_en_kn.zip) |
 News | [AsianetNews](https://newsable.asianetnews.com/) | Until 2021-03  | 37,204 | [AsianetNews (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/asianetnews_20210320_en_kn.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 76,763 | [TOI-News (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_kn.zip) |
+News | [Zee News](https://zeenews.india.com/) | Until 2021-04  | 65,327 | [Zee-News (2011-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zee_30042021_en_kn.zip) |
 
 
 ### `English-Marathi`
@@ -244,6 +250,7 @@ Sports | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 33,025 | [Lokmat-S
 Technology | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 2,943 | [Lokmat-Technology (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-tech_20210501_en_mr.zip) | 
 Financial | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 5,509 | [Lokmat-Financial (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-financial_20210501_en_mr.zip) | 
 Healthcare | [Lokmat](https://www.lokmat.com/) | Until 2021-05  | 4,488 | [Lokmat-Healthcare (20210501)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/lokmat-healthcare_20210501_en_mr.zip) |  
+News | [Zee News](https://zeenews.india.com/) | Until 2021-04  | 125,961 | [Zee-News (2011-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zee_30042021_en_mr.zip) |
 
 
 ### `English-Punjabi`
@@ -279,6 +286,7 @@ News | [PIB Archives](https://archive.pib.gov.in/) | 2015-2016  | 29,443 | [PIB 
 News | [OneIndia](https://www.oneindia.com/) | Until 2021-03  | 48,325 | [OneIndia (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/oneindia_20210320_en_gu.zip) |
 News | [Times of India](https://timesofindia.indiatimes.com/) | Until 2021-03  | 85,777 | [TOI-News (2008-2020)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/toi_20210320_en_gu.zip) |
 Government Press Release | [Gujarat Govt](https://gujaratindia.gov.in/) | As of 2021-03  | 5,260 | [Gujarat Govt (20210320)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/gu-govt_20210320_en_gu.zip) |
+News | [Zee News](https://zeenews.india.com/) | Until 2021-04  | 97,375 | [Zee-News (2011-2021)](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/zee_30042021_en_gu.zip) |
 
 
 ### `English-Assamese`
