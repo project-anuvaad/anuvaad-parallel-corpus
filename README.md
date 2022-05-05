@@ -17,7 +17,7 @@ This work is licensed under a
 
 ## Status
 The current status of the parallel corpus built :
-### (~ 18 million pairs & is growing everyday!)
+### (Going forward, Anuvaad data contribution will be done via ULCA platform. Please refer https://bhashini.gov.in/ulca for further details)
 Language Pair | Parallel Corpus Count  |
 :---------------- | -----------------: |
 English-Hindi     |  5,627,366         |
